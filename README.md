@@ -67,10 +67,11 @@ Model checkpoints and results are saved to:
 
 ---
 
-## 📥 Downloadable Presentations
+## 🎥 Project Presentation
 
-- [📄 Download NVIDIA Presentation](Nvidia_Presentation.pptx)
-- [📄 Download Project Poster](NVIDIA_Team14_Poster.pptx)
+[🔗 Click here to preview the PowerPoint presentation](https://docs.google.com/presentation/d/e/2PACX-1vSUmb0sddnfsnmJL6qbGICzVgVbD96VghoHbVJJZfHgVD0ii5r7QqtvgYFSoIcyDQ/pub?start=false&loop=false&delayms=3000)
+
+[🔗 Click here to preview the Poster](https://docs.google.com/presentation/d/e/2PACX-1vQ0y9qQJK25ALyoT93x_XyvIYUizQOeRWZntH3uYfeC-ImBIfnSTYVgN9FzLI11Hw/pub?start=false&loop=false&delayms=3000)
 
 ---
 
