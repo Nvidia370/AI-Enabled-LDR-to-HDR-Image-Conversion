@@ -69,9 +69,9 @@ Model checkpoints and results are saved to:
 
 ## 🎥 Project Presentation
 
-[🔗 Click here to preview the PowerPoint presentation](https://docs.google.com/presentation/d/e/2PACX-1vSUmb0sddnfsnmJL6qbGICzVgVbD96VghoHbVJJZfHgVD0ii5r7QqtvgYFSoIcyDQ/pub?start=false&loop=false&delayms=3000)
+[🔗 Click here to preview the PowerPoint presentation](https://docs.google.com/presentation/d/e/2PACX-1vSs-S_HMmGOU4ebaxVdAxUpQdxgsuLyB4O_icqGw2ufq7uChUUrgzv1OWtx9UOTug/pub?start=false&loop=false&delayms=3000)
 
-[🔗 Click here to preview the Poster](https://docs.google.com/presentation/d/e/2PACX-1vQ0y9qQJK25ALyoT93x_XyvIYUizQOeRWZntH3uYfeC-ImBIfnSTYVgN9FzLI11Hw/pub?start=false&loop=false&delayms=3000)
+[🔗 Click here to preview the Poster](https://docs.google.com/presentation/d/e/2PACX-1vSlMezhcPecChaYk9p3faso-oB9Ve9VBW2LOJon6sXidygIM--PVzUGsyLy59bx_g/pub?start=false&loop=false&delayms=3000)
 
 ---
 
