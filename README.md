@@ -73,8 +73,6 @@ Model checkpoints and results are saved to:
 
 [🔗 Click here to preview the Poster](https://docs.google.com/presentation/d/e/2PACX-1vQ0y9qQJK25ALyoT93x_XyvIYUizQOeRWZntH3uYfeC-ImBIfnSTYVgN9FzLI11Hw/pub?start=false&loop=false&delayms=3000)
 
-> No need to download — live preview in browser.
-
 ---
 
 ## 👨‍💻 Authors
